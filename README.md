@@ -117,7 +117,3 @@ python replay_movements.py --input recordings/sesion_01.jsonl --loop
 - rodillas (izq/der)
 - talones (izq/der)
 - metatarsos (izq/der)
-
-## Siguiente paso recomendado
-
-Integrar una app de celular que emita RTSP estable en la misma red local, luego ajustar resolucion y suavizado para tu hardware.
